@@ -1,7 +1,7 @@
 # Basic-Python-Problems
 This is the collection of basic coding problems.
 
-#DAY-1 (Problems on Array)
+*Problems on Array*
 
 1. Python program to find the sum of all elements of an array
 2. Python program to find a series in an array consisting of characters
