@@ -3,3 +3,5 @@
 36.Python program to count occurrence of a word in the given text
 37.Python program to check if a pattern is present in a string or not. And then print all strings consisting of patterns from the array of string.
 38.Program to remove i-th character from string using concatenation
+39.Program to remove i-th character from string in python using replace function
+
