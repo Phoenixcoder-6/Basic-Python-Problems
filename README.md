@@ -32,7 +32,7 @@ This is the collection of basic coding problems.
 7.Python program to check if a substring presents in a string
 8.Program to find the maximum frequency character in the string
 9.Python code to count number of substrings of a string.
-10.Python program to reverse a string using stack.
+10. Python program to reverse a string using stack.
 11.Python program to reverse a string using reversed() method.
 12.Python program to split string into array of characters using for loop.
 13.Python program for slicing a string
