@@ -29,5 +29,20 @@ This is the collection of basic coding problems.
 4. Count vowels in a string
 5. Python program to pass a string to the function.
 6. Python program to Create multiple copies of a string by using multiplication operator
-7.Python program to check if a substring presents in a string
-8.Program to find the maximum frequency character in the string
+7. Python program to check if a substring presents in a string
+8. Program to find the maximum frequency character in the string
+9. Python code to count number of substrings of a string.
+10. Python program to reverse a string using stack.
+11. Python program to reverse a string using reversed() method.
+12. Python program to split string into array of characters using for loop.
+13. Python program for slicing a string.
+14. Python program to repeat M characters of a string N times.
+15. Python program to swap two numbers using third variable.
+16. Python program to swap two numbers without using third variable.
+17. Python program to swap characters of a given string.
+18. Python program to remove a character from a specified index in a string.
+19. Python program for adding given string with a fixed message.
+20. Python program to find all permutations of a given string.
+
+
+
