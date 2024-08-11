@@ -4,3 +4,4 @@
 3.Write a python program to create student class that takes name and marks of 3 subjects as arguments in constructor, then create a method to print the average
 4.Write a python program to show how the abstruction works.
 5.Write a python program to create an Account class that takes balance and account number. Now create methods for debit, credit and printing the balance.
+6.Write a python program to explain del() keyword.
