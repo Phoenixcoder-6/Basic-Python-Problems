@@ -5,3 +5,4 @@
 4.Write a python program to show how the abstruction works.
 5.Write a python program to create an Account class that takes balance and account number. Now create methods for debit, credit and printing the balance.
 6.Write a python program to explain del() keyword.
+7.Write a python program to define private class and its working.
