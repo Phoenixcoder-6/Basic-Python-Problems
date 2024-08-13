@@ -10,3 +10,5 @@
 9.Write a python program to explain how multi-level inheritance works.
 10.Write a python program to explain multiple inheritance works.
 11.Python example to implement destructor and constructors using __del__() and __init__()
+12.Python Example to implement Getters and Setters in a class
+
