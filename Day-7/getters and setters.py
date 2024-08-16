@@ -3,6 +3,7 @@ class car:
         self._price = price
 
     @property
+    #getters
     def price(self):
         return self._price
     
