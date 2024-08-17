@@ -24,6 +24,15 @@
 23.Python program to Create Employee Class with Constructor and Destructor.
 24.Example of single inheritance in Python (using car example).
 25.Example of single inheritance in Python (using Library Management system).
+26. Example of single inheritance in python with given class and class methods.
+      Classes used in the program:
+          Class : Employee
+          Method : getEmployeeInfo() : Gets input of the employee information from the user.
+          Method : printEmployeeInfo() : prints the information of the employee.
+          Method : getSalary() : return the salary of the employee.
+          Class Perks :
+          Method: getPerks() : calculates all perks of the employee.
+          Method : putPerks() : prints all perks and employee details of the employee.
 
 
 
