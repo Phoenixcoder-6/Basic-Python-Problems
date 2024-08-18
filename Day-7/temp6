@@ -34,6 +34,7 @@
           Method: getPerks() : calculates all perks of the employee.
           Method : putPerks() : prints all perks and employee details of the employee.
 27.Example of inheritance with two child (derived) classes in Python.
+28.Example of multiple inheritance in Python.
 
 
 
