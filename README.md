@@ -76,6 +76,109 @@ This is the collection of basic coding problems.
 50. Write a Python program to get a string from a given string where all occurrences of its first char have been changed to '$', except the first char itself.
 
 
+*Programs on class and object*
+1. Python Program to Calculate Student's Grade(Using basic loops).
+2. Python Program to Calculate Student's Grade(Using class and object).
+3. Write a python program to create student class that takes name and marks of 3 subjects as arguments in constructor, then create a method to print the average.
+4.Write a python program to show how the abstruction works.
+5.Write a python program to create an Account class that takes balance and account number. Now create methods for debit, credit and printing the balance.
+6.Write a python program to explain del() keyword.
+7.Write a python program to define private class and its working.
+8.Write a python program to define how Inheritance works.
+9.Write a python program to explain how multi-level inheritance works.
+10.Write a python program to explain multiple inheritance works.
+11.Python example to implement destructor and constructors using __del__() and __init__().
+12.Python Example to implement Getters and Setters in a class.
+13.Python Example to implement abstruct class and methods.
+14.Implement Abstraction using Abstract class.
+15.Python program to implement Interface using class.
+16. Write a python program and explain how super method works.
+17. Write a python program to explain how class attributes can be changed.
+18. Write a python program to explain how  methods workes(instance method, class method and static method).
+19. Explain the concept of innerclass and outer class with a suitable example(here we are taking a car example).
+20.Python program to Create Employee Class and show details.
+21.Write a python program to define polymorphism using DUCK TYPING.
+22. Python program to explain polymorphism using operator overloading.
+23.Python program to Create Employee Class with Constructor and Destructor.
+24.Example of single inheritance in Python (using car example).
+25.Example of single inheritance in Python (using Library Management system).
+26. Example of single inheritance in python with given class and class methods.
+      Classes used in the program:
+          Class : Employee
+          Method : getEmployeeInfo() : Gets input of the employee information from the user.
+          Method : printEmployeeInfo() : prints the information of the employee.
+          Method : getSalary() : return the salary of the employee.
+          Class Perks :
+          Method: getPerks() : calculates all perks of the employee.
+          Method : putPerks() : prints all perks and employee details of the employee.
+27.Example of inheritance with two child (derived) classes in Python.
+28.Example of multiple inheritance in Python.
+29.Example of multilevel inheritance in Python. (Print Student details).
+30.Example of Multilevel Inheritance in Python. (Average of marks).
+31.Example of hierarchical inheritance in Python.(Employee, Doctor, Engineer).
+32.Example of Hierarchical Inheritance in Python.
+                        Classes and members:
+                        Class - student
+                                    Method - getStudentInfo() : Gets input from user for variables of the class.
+                                    Method - putStudent() : prints student information.
+                                    Variable - rollNo : stores student's roll number.
+                                    Variable - name : stores student's name.
+                        Class - Bsc
+                                    Method - getBsc() : Gets input from user for variables of the class.
+                                    Method - putBsc() : prints Bsc information and calls putStudent.
+                                    Variable - p : stores student's physics marks.
+                                    Variable - c : stores student's chemistry marks.
+                                    Variable - m : stores student's maths marks.
+                        Class Ba
+                                    Method - getBa() : Gets input from user for variables of the class.
+                                    Method - putBa() : prints Ba information and calls putStudent.
+                                    Variable - h : stores student's history marks.
+                                    Variable - g : stores student's geography marks.
+                                    Variable - e : stores student's economics marks.
+
+
+33.Python program to illustrate constructor inheritance.
+34.Python program to check prime number using object oriented approach.
+35.Python program to count number of objects created.
+36.Python program to check Armstrong number using object oriented approach.
+37.Python program to check Palindrome number using object oriented approach.
+38.Student height record program for a school in Python using oops.
+39.Building Restaurant Menu using Class in Python using oops.
+40.Program for students marks list using class in Python
+41.Program to manage a phone store (mobile shop) record using class in Python.
+42.Program to build flashcard using class in Python.
+43.Python program to add two distances.
+44. Python program to find elder of two persons.
+45.Python program to add accounts in a bank (Bank Management System).
+46.Python program to get student details as input and print the result after updating the marks.
+47.Arrays of Objects Example in Python.
+48.Searching of objects from an array of objects using ID in Python.
+49.Hierarchical Inheritance Example in Python.
+50.Constructor Initialization Example in Python.
+51.Parameterized Constructor and Destructor Example in Python.
+52.Python program to add numbers using Objects.
+53.Multiple Inheritance Example in Python.
+54.Multilevel Inheritance Example in Python.
+55.Python program to add objects '+' using operator.
+56. Write a python program to perform method overloading.
+57. Write a python program to perform Method Overriding.
+58. Write a python program to explain how filter function works.
+59.Given a list of strings, write a python program to filter out the strings that have more than 2 characters.
+60.Given a list of strings, write a python to filter out the empty strings.
+61.Python program to see the working of filter() method.
+62.Python program to search student record using percentage.
+63.Python program to illustrate Matrix Addition using Class.
+64.Python program to compare two objects using operators.
+65.Python program to illustrate the working of list of objects.
+66.Python program to convert hours into days.
+67.Python program to illustrate the working of abstract method.
+68.Python program to illustrate the working of decorators.
+69.Python program to pass objects as arguments and return objects from function.
+    
+
+
+
+
 
 
 
