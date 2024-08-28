@@ -118,9 +118,7 @@ This is the collection of basic coding problems.
 30.    Example of Multilevel Inheritance in Python. (Average of marks)
 31. Example of hierarchical inheritance in Python.(Employee, Doctor, Engineer)
 32.  Example of Hierarchical Inheritance in Python.
-33.  
                         Classes and members:
-     
                         Class - student
                                     Method - getStudentInfo() : Gets input from user for variables of the class.
                                     Method - putStudent() : prints student information.
