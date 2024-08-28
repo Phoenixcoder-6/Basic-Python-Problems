@@ -113,11 +113,11 @@ This is the collection of basic coding problems.
     Method : putPerks() : prints all perks and employee details of the employee.
 
 27. Example of inheritance with two child (derived) classes in Python.
-28.  Example of multiple inheritance in Python.
-29.   Example of multilevel inheritance in Python. (Print Student details)
-30.    Example of Multilevel Inheritance in Python. (Average of marks)
+28. Example of multiple inheritance in Python.
+29. Example of multilevel inheritance in Python. (Print Student details)
+30. Example of Multilevel Inheritance in Python. (Average of marks)
 31. Example of hierarchical inheritance in Python.(Employee, Doctor, Engineer)
-32.  Example of Hierarchical Inheritance in Python.
+32. Example of Hierarchical Inheritance in Python.
                         Classes and members:
                         Class - student
                                     Method - getStudentInfo() : Gets input from user for variables of the class.
@@ -136,6 +136,53 @@ This is the collection of basic coding problems.
                                     Variable - h : stores student's history marks.
                                     Variable - g : stores student's geography marks.
                                     Variable - e : stores student's economics marks.
+
+    
+33. Python program to illustrate constructor inheritance.
+34. Python program to check prime number using object oriented approach.
+35. Python program to count number of objects created.
+36. Python program to check Armstrong number using object oriented approach.
+37. Python program to check Palindrome number using object oriented approach.
+38. Student height record program for a school in Python using oops.
+39. Building Restaurant Menu using Class in Python using oops.
+40. Program for students marks list using class in Python
+41. Program to manage a phone store (mobile shop) record using class in Python.
+42. Program to build flashcard using class in Python.
+43. Python program to add two distances.
+44. Python program to find elder of two persons.
+45. Python program to add accounts in a bank (Bank Management System).
+46. Python program to get student details as input and print the result after updating the marks.
+47. Arrays of Objects Example in Python.
+48. Searching of objects from an array of objects using ID in Python.
+49. Hierarchical Inheritance Example in Python.
+50. Constructor Initialization Example in Python.
+51. Parameterized Constructor and Destructor Example in Python.
+52. Python program to add numbers using Objects.
+53. Multiple Inheritance Example in Python.
+54. Multilevel Inheritance Example in Python.
+55. Python program to add objects '+' using operator.
+56. Write a python program to perform method overloading.
+57. Write a python program to perform Method Overriding.
+58. Write a python program to explain how filter function works.
+59. Given a list of strings, write a python program to filter out the strings that have more than 2 characters.
+60. Given a list of strings, write a python to filter out the empty strings.
+61. Python program to see the working of filter() method.
+62. Python program to search student record using percentage.
+63. Python program to illustrate Matrix Addition using Class.
+64. Python program to compare two objects using operators.
+65. Python program to illustrate the working of list of objects.
+66. Python program to convert hours into days.
+67. Python program to illustrate the working of abstract method.
+68. Python program to illustrate the working of decorators.
+69. Python program to pass objects as arguments and return objects from function.
+
+
+
+
+
+
+
+  
                         
 
 
