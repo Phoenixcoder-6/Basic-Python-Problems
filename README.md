@@ -87,7 +87,7 @@ This is the collection of basic coding problems.
 8.Write a python program to define how Inheritance works.
 9.Write a python program to explain how multi-level inheritance works.
 10.Write a python program to explain multiple inheritance works.
-11.Python example to implement destructor and constructors using __del__() and __init__().
+11. Python example to implement destructor and constructors using __del__() and __init__().
 12.Python Example to implement Getters and Setters in a class.
 13.Python Example to implement abstruct class and methods.
 14.Implement Abstraction using Abstract class.
