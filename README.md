@@ -111,13 +111,16 @@ This is the collection of basic coding problems.
     Class Perks :
     Method: getPerks() : calculates all perks of the employee.
     Method : putPerks() : prints all perks and employee details of the employee.
-28. Example of inheritance with two child (derived) classes in Python.
-29. Example of multiple inheritance in Python.
-30. Example of multilevel inheritance in Python. (Print Student details)
-31. Example of Multilevel Inheritance in Python. (Average of marks)
-32. Example of hierarchical inheritance in Python.(Employee, Doctor, Engineer)
-33. Example of Hierarchical Inheritance in Python.
+
+27. Example of inheritance with two child (derived) classes in Python.
+28.  Example of multiple inheritance in Python.
+29.   Example of multilevel inheritance in Python. (Print Student details)
+30.    Example of Multilevel Inheritance in Python. (Average of marks)
+31. Example of hierarchical inheritance in Python.(Employee, Doctor, Engineer)
+32.  Example of Hierarchical Inheritance in Python.
+33.  
                         Classes and members:
+     
                         Class - student
                                     Method - getStudentInfo() : Gets input from user for variables of the class.
                                     Method - putStudent() : prints student information.
