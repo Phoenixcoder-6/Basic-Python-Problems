@@ -6,5 +6,6 @@
 5. Check if a given array contains duplicate elements within k distance from each other
 6. Program to find the minimum (or maximum) element of an array
 7. Array Reverse in Python programming language.
-8. Sort an Array in Ascending Order (selection sort)
-9. K’th Smallest Element in Unsorted Array
+8. Sort an Array in Ascending Order (selection sort).
+9. K’th Smallest Element in Unsorted Array.
+10. Count number of occurrences (or frequency) in a sorted array.
