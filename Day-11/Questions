@@ -7,3 +7,4 @@
 the even numbers from both arrays are added afterward, altering between two arrays.
 6. Remove all occurrences of an element from a Python list.
 7. Python Program to remove all elements in a range from the List.
+8. Python Program to remove all elements in a range from the List using indexing.
