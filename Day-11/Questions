@@ -3,3 +3,5 @@
 2. Python Program for Adding, removing elements in the list.
 3. Python Program to add an element at specified index in a list.
 4. Python Program to remove first occurrence of a given element in the list.
+5. Write a Python program that takes two lists of integers and gives a result as the odd numbers from both arrays are added first, alternating between arr1 and arr2.
+the even numbers from both arrays are added afterward, altering between two arrays.
