@@ -18,3 +18,5 @@ the even numbers from both arrays are added afterward, altering between two arra
 16. Python Create a list from the specified start to end index of another list.
 17. Python Create three lists of numbers, their squares and cubes.
 18. Python Create two lists with first half and second half elements of a list.
+19.Iterate / traverse a list in reverse order in Python
+
