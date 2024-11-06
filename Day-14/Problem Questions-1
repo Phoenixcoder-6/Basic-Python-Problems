@@ -5,3 +5,4 @@
 -Insert/Delete an Element in an Array: Add or remove an element from a specific position in an array.
 -Merge Two Sorted Arrays: Merge two sorted arrays into a single sorted array.
 -Merge Strings Alternately. input: abcd, pqrs; output: apbqcrds
+-Greatest Common Divisor of Strings: input: ABAB, AB  output: AB
