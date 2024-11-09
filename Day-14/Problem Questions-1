@@ -8,3 +8,4 @@
 -Greatest Common Divisor of Strings: input: ABAB, AB  output: AB
 -Perform Bubble Sort taking input from user.
 -Perform Selection Sort on an unsorted array.
+-Write a code to print a name without duplicate letter.
