@@ -1,5 +1,6 @@
 *Basic questions on Heap*
 -Create a basic heap and push and pop element efficiently.
 -Heap Sort
-- Kth smallest element without using sorting.
+-Kth smallest element without using sorting.
 -Merge sort
+-You are given k sorted linked lists or arrays. The task is to merge them into a single sorted list.
