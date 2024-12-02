@@ -1,1 +1,2 @@
 1. Create a Dictionary: Write a program to create a dictionary where keys are numbers from 1 to 5, and values are their squares.
+2. Write a function to retrieve the value of a given key in a dictionary. If the key does not exist, return "Key not found."
