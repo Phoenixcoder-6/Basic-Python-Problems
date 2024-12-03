@@ -2,3 +2,4 @@
 2. Write a function to retrieve the value of a given key in a dictionary. If the key does not exist, return "Key not found."
 3. Sorting a dictionary in Ascending and Descending order by Key or Value in Python.
 4. Merge two dictionaries in a single expression in Python
+5. Python program to create a dictionary with integer keys, and print the keys, values & key-value pairs
