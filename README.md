@@ -159,6 +159,8 @@ This is the collection of basic coding problems.
 51. Parameterized Constructor and Destructor Example in Python.
 52. Python program to add numbers using Objects.
 53. Multiple Inheritance Example in Python.
+
+
 54. Multilevel Inheritance Example in Python.
 55. Python program to add objects '+' using operator.
 56. Write a python program to perform method overloading.
@@ -175,6 +177,7 @@ This is the collection of basic coding problems.
 67. Python program to illustrate the working of abstract method.
 68. Python program to illustrate the working of decorators.
 69. Python program to pass objects as arguments and return objects from function.
+70. 
 
 
 
