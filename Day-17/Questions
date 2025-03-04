@@ -2,3 +2,4 @@
 2. Reverse a string using python( using string slicing + using loop)
 3. How do you determine if a string is a palindrome?
 4. Find the number of occurrences of a character in a String?
+5. How to find out if the given two strings are anagrams or not?
