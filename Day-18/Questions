@@ -1,3 +1,4 @@
 Questions:
 1. Convert Integer number to a Decimal.
 2. Convert a string of integers into decimal.
+3. Reverse a string using extended slicing technique.
