@@ -3,3 +3,4 @@ Questions:
 2. Convert a string of integers into decimal.
 3. Reverse a string using extended slicing technique.
 4. Counting vowels in a given word.
+5. Count the number of occurances for each charecter in a given string.
