@@ -184,6 +184,13 @@ This is the collection of basic coding problems.
 73. .
 74. .
 75. .
+
+J
+. 
+.
+.
+.
+.
 76. .
 
 
