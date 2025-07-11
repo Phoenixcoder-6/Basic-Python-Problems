@@ -180,10 +180,6 @@ This is the collection of basic coding problems.
 
 
 
-71
-
-
-
 
 
 
