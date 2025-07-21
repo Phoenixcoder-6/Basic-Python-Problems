@@ -179,7 +179,9 @@ This is the collection of basic coding problems.
 69. Python program to pass objects as arguments and return objects from function.
 70. .
 71. .
-72. 
+
+
+
 
 
 
