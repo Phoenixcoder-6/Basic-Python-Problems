@@ -1,5 +1,5 @@
 # Basic-Python-Problems
-This is the collection of basic coding problems.
+This is a collection of basic coding problems.
 
 *Problems on Array*
 
